@@ -1,0 +1,21 @@
+# Bank Management Console App
+
+A simple Java console-based Bank Management System developed as a beginner-level mini project. This application allows users to check their account balance, deposit money, and withdraw money through a menu-driven interface.
+
+## Features
+- Check account balance
+- Deposit money
+- Withdraw money
+- Validate deposit and withdrawal amounts
+- Prevent withdrawals exceeding the available balance
+- Exit the application
+
+## Technologies Used
+- Java
+- Scanner
+- Loops
+- Switch Statement
+- Conditional Statements
+
+## Purpose
+This project demonstrates basic Java programming concepts and provides practical experience in building a menu-driven console application.
